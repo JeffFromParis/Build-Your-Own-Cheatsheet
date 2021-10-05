@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-color: azure;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  tbody {
+      text-align: left;
+  }
+
+  thead {
+      font-weight: bold;
+      background-color:lightgoldenrodyellow;
+  }
+
+  table {
+      border: solid 3px lightgoldenrodyellow;
+  }
